@@ -1,11 +1,16 @@
-# Hi, I'm Maylen 💫
+# Hi, I'm Maylen ✨
 ## 💫 About Me:
-- 🔭 I’m currently working on <br>- 🌱 I’m currently learning <br>- 👯 I’m looking to collaborate on <br>- 🤔 I’m looking for help with <br>- 💬 Ask me about <br>- 📫 How to reach me: <br>- 😄 Pronouns: she/her<br>- ⚡ Fun fact:
+- 🎓 I'm a 3rd year Computer Engineering student at the University of Buenos Aires (UBA).  
+- 🚀 Currently learning about programming paradigms and algorithmic theory.
+- 🤝 I value teamwork, initiative, and clear communication.  
+- 🌍 I'm always open to challenges that help me grow, both technically and personally.  
+- 📌 I'm looking forward to internship opportunities in tech.
+- 🌌 Fun fact: In my free time, I crochet and enjoy reading about astronomy.
 
 ## 💻 Tech Stack:
 
 ### 🧠 Languajes
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,html,css,idea,scala)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,js,html,css,scala)](https://skillicons.dev)
 
 ### 🛠️ Tools & Environments
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,linux,sublime)](https://skillicons.dev)
