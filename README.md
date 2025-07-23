@@ -2,15 +2,10 @@
 ## 💫 About Me:
 
 🎓 I'm a 3rd year Computer Engineering student at the University of Buenos Aires (UBA).
-
 🚀 Currently learning about programming paradigms and algorithmic theory.
-
 🤝 I value teamwork, initiative, and clear communication.
-
 🌍 I'm always open to challenges that help me grow, both technically and personally.
-
 📌 I'm looking forward to internship opportunities in tech.
-
 🌌 Fun fact: In my free time, I crochet and enjoy reading about astronomy.
 
 ## 💻 Tech Stack:
