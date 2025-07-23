@@ -10,18 +10,14 @@
 
 ## 💻 Tech Stack:
 
-<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-<div style="flex: 1; min-width: 300px;">
-### 🧠 Languages
+### 🧠 Languajes
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,js,html,css,scala)](https://skillicons.dev)
-### 🧰 Frameworks & Dev Tools
-[![My Skills](https://skillicons.dev/icons?i=flask,docker)](https://skillicons.dev)
-</div>
 
-<div style="flex: 1; min-width: 300px;">
 ### 🛠️ Tools & Environments
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,linux,sublime)](https://skillicons.dev)
+
+### 🧰 Frameworks & Dev Tools
+[![My Skills](https://skillicons.dev/icons?i=flask,docker)](https://skillicons.dev)
+
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
-</div>
-</div>
