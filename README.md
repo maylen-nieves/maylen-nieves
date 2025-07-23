@@ -1,4 +1,4 @@
-# Hi, I'm Maylen ✨
+# Hi, I'm May ✨
 ## 💫 About Me:
 
 🎓 I'm a 3rd year Computer Engineering student at the University of Buenos Aires (UBA).<br>
